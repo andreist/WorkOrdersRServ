@@ -1,0 +1,5 @@
+E:\Diverse\Troelsen\WorkOrdersRService\WorkOrder\bin\Debug\WorkOrder.dll
+E:\Diverse\Troelsen\WorkOrdersRService\WorkOrder\bin\Debug\WorkOrder.pdb
+E:\Diverse\Troelsen\WorkOrdersRService\WorkOrder\obj\Debug\ResolveAssemblyReference.cache
+E:\Diverse\Troelsen\WorkOrdersRService\WorkOrder\obj\Debug\WorkOrder.dll
+E:\Diverse\Troelsen\WorkOrdersRService\WorkOrder\obj\Debug\WorkOrder.pdb

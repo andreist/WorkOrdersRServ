@@ -1,0 +1,11 @@
+E:\Diverse\Troelsen\WorkOrdersRService\WorkOrdersRService\bin\WorkOrdersRService.dll
+E:\Diverse\Troelsen\WorkOrdersRService\WorkOrdersRService\bin\WorkOrdersRService.pdb
+E:\Diverse\Troelsen\WorkOrdersRService\WorkOrdersRService\bin\DAL.dll
+E:\Diverse\Troelsen\WorkOrdersRService\WorkOrdersRService\bin\WorkOrder.dll
+E:\Diverse\Troelsen\WorkOrdersRService\WorkOrdersRService\bin\ErrorHandler.dll
+E:\Diverse\Troelsen\WorkOrdersRService\WorkOrdersRService\bin\DAL.pdb
+E:\Diverse\Troelsen\WorkOrdersRService\WorkOrdersRService\bin\WorkOrder.pdb
+E:\Diverse\Troelsen\WorkOrdersRService\WorkOrdersRService\bin\ErrorHandler.pdb
+E:\Diverse\Troelsen\WorkOrdersRService\WorkOrdersRService\obj\Debug\ResolveAssemblyReference.cache
+E:\Diverse\Troelsen\WorkOrdersRService\WorkOrdersRService\obj\Debug\WorkOrdersRService.dll
+E:\Diverse\Troelsen\WorkOrdersRService\WorkOrdersRService\obj\Debug\WorkOrdersRService.pdb

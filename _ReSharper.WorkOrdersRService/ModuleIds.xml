@@ -1,0 +1,8 @@
+<Modules>
+  <Module PersistentId="B2E70B87-0620-4EE7-A355-895F403142CA" ModuleId="WorkOrdersRService" />
+  <Module PersistentId="F38835FC-B9D5-4473-A285-24C52DF9E089" ModuleId="WorkOrder" />
+  <Module PersistentId="96C95E01-A969-493F-8F43-A137D16FA531" ModuleId="DAL" />
+  <Module PersistentId="B68F6256-AFBD-4022-B00C-6F988835EDEF" ModuleId="DALDB.cs" />
+  <Module PersistentId="B293D54D-6A02-4214-8E44-7A9773460CC5" ModuleId="WorkOrder_1" />
+  <Module PersistentId="B9F8889B-01C7-40E1-BECA-7D926F4D5B47" ModuleId="ErrorHandler" />
+</Modules>

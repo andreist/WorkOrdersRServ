@@ -1,0 +1,5 @@
+E:\Diverse\Troelsen\WorkOrdersRService\ErrorHandler\bin\Debug\ErrorHandler.dll
+E:\Diverse\Troelsen\WorkOrdersRService\ErrorHandler\bin\Debug\ErrorHandler.pdb
+E:\Diverse\Troelsen\WorkOrdersRService\ErrorHandler\obj\Debug\ResolveAssemblyReference.cache
+E:\Diverse\Troelsen\WorkOrdersRService\ErrorHandler\obj\Debug\ErrorHandler.dll
+E:\Diverse\Troelsen\WorkOrdersRService\ErrorHandler\obj\Debug\ErrorHandler.pdb
